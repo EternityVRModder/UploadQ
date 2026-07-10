@@ -1,0 +1,15 @@
+UPLOADQ POLICY
+====================================================================================
+
+UploadQ is a tool designed to make Meta Quest build uploads easier by providing a graphical interface for ovr-platform-util.
+
+Credentials:
+UploadQ does not provide or include any Meta App IDs or App Secrets.
+Users are responsible for their own credentials and should not share their credentials.key file.
+
+Usage:
+UploadQ is provided as a utility to simplify the upload process.
+Users are responsible for ensuring they have the correct permissions and rights to upload the content they use with this tool.
+
+Disclaimer:
+UploadQ is provided as-is. The creator is not responsible for issues caused by incorrect credentials, incorrect files, misuse of the tool, or problems with external services.
